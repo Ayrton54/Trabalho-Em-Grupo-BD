@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Trabalho-Em-Grupo-BD.props" />
+</Project>

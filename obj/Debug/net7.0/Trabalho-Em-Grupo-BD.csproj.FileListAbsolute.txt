@@ -1,0 +1,228 @@
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\appsettings.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.exe
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.deps.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.runtimeconfig.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Humanizer.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.csproj.AssemblyReference.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.AssemblyInfoInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.AssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.csproj.CoreCompileInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\staticwebassets\msbuild.Trabalho-Em-Grupo-BD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\staticwebassets\msbuild.build.Trabalho-Em-Grupo-BD.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Trabalho-Em-Grupo-BD.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Trabalho-Em-Grupo-BD.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\scopedcss\bundle\Trabalho-Em-Grupo-BD.styles.css
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.csproj.CopyComplete
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\refint\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.genruntimeconfig.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD\obj\Debug\net7.0\ref\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\appsettings.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.exe
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.deps.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.runtimeconfig.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Humanizer.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.csproj.AssemblyReference.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.AssemblyInfoInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.AssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.csproj.CoreCompileInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\staticwebassets\msbuild.Trabalho-Em-Grupo-BD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\staticwebassets\msbuild.build.Trabalho-Em-Grupo-BD.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Trabalho-Em-Grupo-BD.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Trabalho-Em-Grupo-BD.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\scopedcss\bundle\Trabalho-Em-Grupo-BD.styles.css
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.csproj.CopyComplete
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\refint\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.genruntimeconfig.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia\obj\Debug\net7.0\ref\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\appsettings.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.exe
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.deps.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.runtimeconfig.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Trabalho-Em-Grupo-BD.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Humanizer.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.csproj.AssemblyReference.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.AssemblyInfoInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.AssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.csproj.CoreCompileInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\staticwebassets\msbuild.Trabalho-Em-Grupo-BD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\staticwebassets\msbuild.build.Trabalho-Em-Grupo-BD.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Trabalho-Em-Grupo-BD.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Trabalho-Em-Grupo-BD.props
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\scopedcss\bundle\Trabalho-Em-Grupo-BD.styles.css
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.csproj.CopyComplete
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\refint\Trabalho-Em-Grupo-BD.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\Trabalho-Em-Grupo-BD.genruntimeconfig.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Trabalho-Em-Grupo-BD - Copia - Copia\obj\Debug\net7.0\ref\Trabalho-Em-Grupo-BD.dll
